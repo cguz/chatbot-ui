@@ -58,7 +58,7 @@ If you use conda, you can create a virtual environment and install the required 
 First clone the project or download the zip file and unzip it:
 
 ```bash
-git clone https://github.com/ParisNeo/gpt4all-ui.git
+git clone https://github.com/cguz/chatbot-ui.git.git
 cd gpt4all-ui
 ```
 Now create a new conda environment, activate it and install requirements
